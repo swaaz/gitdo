@@ -1,4 +1,11 @@
 export const profileList = [
+    {
+        name: 'Suhas',
+        githubUsername: 'suhasraocodes',
+        instagramUsername: 'suhas_rao_22',
+        twitterUsername: '',
+        linkedinURL: 'https://www.linkedin.com/in/suhas-8487b0228/',
+    },
 
     {
         name: 'Shravya Shetty',
